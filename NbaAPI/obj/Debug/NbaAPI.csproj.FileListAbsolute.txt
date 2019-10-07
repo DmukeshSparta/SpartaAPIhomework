@@ -1,0 +1,12 @@
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\bin\Debug\NbaAPI.exe.config
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\bin\Debug\NbaAPI.exe
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\bin\Debug\NbaAPI.pdb
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\bin\Debug\RestSharp.dll
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\bin\Debug\RestSharp.xml
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\obj\Debug\NbaAPI.csprojAssemblyReference.cache
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\obj\Debug\NbaAPI.csproj.CoreCompileInputs.cache
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\obj\Debug\NbaAPI.csproj.CopyComplete
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\obj\Debug\NbaAPI.exe
+C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\obj\Debug\NbaAPI.pdb
