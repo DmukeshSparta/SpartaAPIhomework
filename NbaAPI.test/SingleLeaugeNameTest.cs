@@ -6,74 +6,41 @@ namespace NbaAPI.test
     [TestFixture]
     public class SingleLeagueNameTest
     {
-        SingleLeagueName SingleLeague = new SingleLeagueName();
+        SingleLeague singleLeague = new SingleLeague();
 
         public SingleLeagueNameTest()
         {
-            SingleLeague.GetSingleLeaugeName("National Basketball Association", "NBA", "111");
+            singleLeague.GetSingleLeauge("National Basketball Association", "NBA", "111");
         }
 
         [Test]
         public void Message()
         {
-            Assert.AreEqual("success", SingleLeague.LeagueNameObject["message"].ToString());
+            Assert.AreEqual("success", singleLeague.LeagueNameObject["message"].ToString());
         }
 
         [Test]
         public void ReturnCorrectLeaugeName()
         {
-            Assert.AreEqual("National Basketball Association", SingleLeague.LeagueNameObject
-                ["data"]["leagueName"].ToString());
+            Assert.AreEqual("National Basketball Association", singleLeague.LeagueNameObject["data"][0]["leagueName"].ToString());
         }
 
         [Test]
         public void ReturnCorrectLeaugeShortName()
         {
-            Assert.AreEqual("NBA", SingleLeague.LeagueShortNameObject
-                ["data"]["leagueShortName"].ToString());
+            Assert.AreEqual("NBA", singleLeague.LeagueShortNameObject["data"][0]["leagueShortName"].ToString());
         }
 
         [Test]
         public void ReturnCorrectLeaugeId()
         {
-            Assert.AreEqual("111", SingleLeague.LeagueIdObject
-                ["data"]["leagueId"].ToString());
+            Assert.AreEqual("111", singleLeague.LeagueIdObject["data"][0]["leagueId"].ToString());
         }
 
         [Test]
         public void ReturnInCorrectLeaugeId()
         {
-            Assert.AreNotEqual("110", SingleLeague.LeagueIdObject
-                ["data"]["leagueId"].ToString());
+            Assert.AreNotEqual("110", singleLeague.LeagueIdObject["data"][0]["leagueId"].ToString());
         }
-
-        [Test]
-        public void ReturnCorrectLeaugeName1()
-        {
-            Assert.AreEqual("NBA ALL STAR", SingleLeague.LeagueShortNameObject
-                ["data"]["leagueName"].ToString());
-        }
-
-        [Test]
-        public void ReturnCorrectLeaugeName2()
-        {
-            Assert.AreEqual("EuroChallenge Basketball", SingleLeague.LeagueNameObject
-                ["data"]["leagueName"].ToString());
-        }
-
-        [Test]
-        public void ReturnCorrectLeaugeId1()
-        {
-            Assert.AreEqual("1437", SingleLeague.LeagueIdObject
-                ["data"]["leagueId"].ToString());
-        }
-
-        [Test]
-        public void ReturnCorrectLeaugeId2()
-        {
-            Assert.AreEqual("1246", SingleLeague.LeagueIdObject
-                ["data"]["leagueId"].ToString());
-        }
-
     }
 }
