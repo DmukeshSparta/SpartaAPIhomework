@@ -10,3 +10,15 @@ C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\obj\Debug\NbaAPI.csproj.CoreCompileI
 C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\obj\Debug\NbaAPI.csproj.CopyComplete
 C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\obj\Debug\NbaAPI.exe
 C:\Users\OPDipak\source\repos\NbaAPI\NbaAPI\obj\Debug\NbaAPI.pdb
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\bin\Debug\NbaAPI.exe.config
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\bin\Debug\NbaAPI.exe
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\bin\Debug\NbaAPI.pdb
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\bin\Debug\RestSharp.dll
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\bin\Debug\RestSharp.xml
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\obj\Debug\NbaAPI.csprojAssemblyReference.cache
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\obj\Debug\NbaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\obj\Debug\NbaAPI.csproj.CopyComplete
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\obj\Debug\NbaAPI.exe
+C:\Users\Dipak Mukesh\Source\Repos\DmukeshSparta\SpartaAPIhomework\NbaAPI\obj\Debug\NbaAPI.pdb

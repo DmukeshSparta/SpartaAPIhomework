@@ -28,7 +28,7 @@ namespace NbaAPI
         public JObject LeagueIdObject { get; set; }
         public SingleLeagueName() => Client = new RestClient
         {
-            BaseUrl = new Uri("http://api.isportsapi.com/sport/basketball/league/basic?api_key=<flbJOqDkNsQiV1cB>")
+            BaseUrl = new Uri("http://api.isportsapi.com/sport/basketball/league/basic?api_key=flbJOqDkNsQiV1cB")
         };
 
         public void GetSingleLeaugeName(string leagueName, string leagueshortname, string leagueId)
