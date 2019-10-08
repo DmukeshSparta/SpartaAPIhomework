@@ -1,0 +1,12 @@
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\bin\Debug\SportsAPI.exe.config
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\bin\Debug\SportsAPI.exe
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\bin\Debug\SportsAPI.pdb
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\bin\Debug\RestSharp.dll
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\bin\Debug\RestSharp.xml
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\obj\Debug\SportsAPI.csprojAssemblyReference.cache
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\obj\Debug\SportsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\obj\Debug\SportsAPI.csproj.CopyComplete
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\obj\Debug\SportsAPI.exe
+C:\Users\Dipak Mukesh\source\repos\DmukeshSparta\SpartaAPIhomework\SportsAPI\obj\Debug\SportsAPI.pdb
