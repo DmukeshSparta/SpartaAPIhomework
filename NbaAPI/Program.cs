@@ -27,6 +27,7 @@ namespace NbaAPI
                 public string LeagueIdSelected { get; set; }
         */
         public JObject LeagueShortNameObject { get; set; }
+
         public JObject LeagueIdObject { get; set; }
         public SingleLeague() => Client = new RestClient
         {
