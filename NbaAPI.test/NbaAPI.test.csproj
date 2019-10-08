@@ -57,7 +57,9 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SelectLeagueNameTest3.cs" />
     <Compile Include="SingleLeagueNameTest2.cs" />
+    <Compile Include="SingleLeagueNameTest4.cs" />
     <Compile Include="SingleLeaugeNameTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

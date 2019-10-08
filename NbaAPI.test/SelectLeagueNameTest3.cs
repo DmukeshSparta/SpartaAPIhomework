@@ -4,11 +4,11 @@ using NUnit.Framework;
 namespace NbaAPI.test
 {
     [TestFixture]
-    public class SingleLeagueNameTest2
+    public class SingleLeagueNameTest3
     {
         SingleLeague singleLeague = new SingleLeague();
 
-        public SingleLeagueNameTest2()
+        public SingleLeagueNameTest3()
         {
             singleLeague.GetSingleLeauge("");
         }
@@ -22,19 +22,19 @@ namespace NbaAPI.test
         [Test]
         public void ReturnCorrectLeaugeName()
         {
-            Assert.AreEqual("NBA ALL STAR", singleLeague.LeagueNameObject["data"][3]["leagueName"].ToString());
+            Assert.AreEqual("Super Basketball League", singleLeague.LeagueNameObject["data"][11]["leagueName"].ToString());
         }
 
         [Test]
         public void ReturnCorrectLeaugeShortName()
         {
-            Assert.AreEqual("NBA All Star", singleLeague.LeagueShortNameObject["data"][3]["leagueShortName"].ToString());
+            Assert.AreEqual("SBL", singleLeague.LeagueShortNameObject["data"][11]["leagueShortName"].ToString());
         }
 
         [Test]
         public void ReturnCorrectLeaugeId()
         {
-            Assert.AreEqual("1437", singleLeague.LeagueIdObject["data"][3]["leagueId"].ToString());
+            Assert.AreEqual("10415", singleLeague.LeagueIdObject["data"][11]["leagueId"].ToString());
         }
     }
 }

@@ -10,7 +10,7 @@ namespace NbaAPI.test
 
         public SingleLeagueNameTest()
         {
-            singleLeague.GetSingleLeauge("National Basketball Association");
+            singleLeague.GetSingleLeauge("");
         }
 
         [Test]
