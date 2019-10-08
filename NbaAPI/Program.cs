@@ -30,14 +30,14 @@ namespace NbaAPI
             BaseUrl = new Uri("http://api.isportsapi.com/sport/basketball/league/basic?api_key=flbJOqDkNsQiV1cB")
         };
 
-        public void GetSingleLeauge(string leagueName, string leagueShortName, string leagueId)
+        public void GetSingleLeauge(string leagueName)
         {
             var request = new RestRequest();
             request.AddHeader("Content-Type", "application/json");
 
             LeagueNameSelected = leagueName;
-            LeagueShortNameSelected = leagueShortName;
-            LeagueIdSelected = leagueId;
+            //LeagueShortNameSelected = leagueShortName;
+            //LeagueIdSelected = leagueId;
 
             IRestResponse response = Client.Execute(request);
 
